@@ -1,3 +1,3 @@
 # PRUEBA-CONOCIMIENTO
 
-## Utiizacion de Git
+## Utilizacion de Git
